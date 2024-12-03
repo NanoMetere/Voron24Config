@@ -1,5 +1,6 @@
 # my Voron 2.4 350 config files
 looking for english? will make it future, but not now.
+완성되지 않은 문서인데, 완성에 꽤 많은 시간이 걸릴지도 모르겠습니다..
 
 ## 설정 관련 주요 내용
 각 링크에 설명이 포함되어 있으니 읽어보시기를 추천드립니다.
