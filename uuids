@@ -1,4 +1,7 @@
 tartatus = 61a68c03f57b
 
-toolhead1 = 176e697cb321
-toolhead2 = fb44fde766bd
+tester = 176e697cb321
+
+toolhead0 = 3091eb9e0513
+toolhead1 = fb44fde766bd
+toolhead2 = 8d5dffb25a25
